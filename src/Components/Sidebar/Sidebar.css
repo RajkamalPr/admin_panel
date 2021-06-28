@@ -1,0 +1,25 @@
+.pro-sidebar
+  .pro-menu
+  .pro-menu-item.pro-sub-menu
+  .pro-inner-list-item
+  .pro-inner-item:before {
+  box-shadow: none;
+  font-size: 20px;
+}
+.pro-inner-item {
+  font-size: 18px;
+  font-weight: 600;
+}
+.pro-sidebar-header {
+  height: 80px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.pro-sidebar-footer {
+  height: 80px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+}
